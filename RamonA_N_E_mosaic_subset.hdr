@@ -1,0 +1,127 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Tue Feb 02 15:35:33 2016]}
+samples = 87
+lines   = 50
+bands   = 78
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 1730
+y start = 3926
+map info = {UTM, 1.000, 1.000, 681558.262, 3387182.521, 2.0000000000e+000, 2.0000000000e+000, 36, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_36N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",33.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Micrometers
+band names = {
+ ROI Resize (Mosaic (Band 1):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 2):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 3):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 4):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 5):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 6):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 7):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 8):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 9):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 10):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 11):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 12):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 13):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 14):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 15):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 16):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 17):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 18):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 19):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 20):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 21):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 22):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 23):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 24):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 25):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 26):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 27):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 28):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 29):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 30):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 31):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 32):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 33):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 34):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 35):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 36):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 37):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 38):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 39):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 40):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 41):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 42):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 43):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 44):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 45):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 46):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 47):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 48):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 49):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 50):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 51):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 52):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 53):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 54):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 55):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 56):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 57):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 58):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 59):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 60):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 61):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 62):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 63):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 64):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 65):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 66):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 67):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 68):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 69):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 70):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 71):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 72):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 73):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 74):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 75):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 76):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 77):RamonA_N_E_mosaic), 
+ ROI Resize (Mosaic (Band 78):RamonA_N_E_mosaic)}
+wavelength = {
+  8.027000,  8.073830,  8.120660,  8.167490,  8.214320,  8.261150,  8.307981,
+  8.354810,  8.401640,  8.448470,  8.495299,  8.542130,  8.588960,  8.635790,
+  8.682620,  8.729450,  8.776280,  8.823111,  8.869941,  8.916770,  8.963599,
+  9.010429,  9.057260,  9.104090,  9.150920,  9.197760,  9.244590,  9.291420,
+  9.338250,  9.385080,  9.431911,  9.478741,  9.525570,  9.572400,  9.619230,
+  9.666059,  9.712890,  9.759720,  9.806550,  9.853380,  9.900210,  9.947040,
+  9.993870, 10.040700, 10.087530, 10.134360, 10.181190, 10.228020, 10.274850,
+ 10.321680, 10.368510, 10.415350, 10.462180, 10.509009, 10.555840, 10.602670,
+ 10.649500, 10.696330, 10.743160, 10.789990, 10.836821, 10.883651, 10.930480,
+ 10.977309, 11.024139, 11.070970, 11.117800, 11.164630, 11.211460, 11.258290,
+ 11.305120, 11.351951, 11.398780, 11.445610, 11.492440, 11.539269, 11.586110,
+ 11.632940}
+fwhm = {
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830, 0.046830,
+ 0.046830}
+bbl = {
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
